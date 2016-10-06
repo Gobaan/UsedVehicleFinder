@@ -1,0 +1,11 @@
+*.backup
+*.jpg
+*.json
+*.html
+
+
+.ipynb_checkpoints
+.ropeproject
+.DS_Store
+__pycache__
+*.csv
